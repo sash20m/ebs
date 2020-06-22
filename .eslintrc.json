@@ -1,0 +1,12 @@
+{
+    "env": {
+        "browser": true,
+        "es2020": true
+    },
+    "extends": ["airbnb", "airbnb/hooks", "prettier"],
+    "parserOptions": {
+        "ecmaVersion": 11
+    },
+    "plugins": ["react"],
+    "rules": {}
+}
