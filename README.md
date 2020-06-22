@@ -1,6 +1,5 @@
 It's very important when all team use a unique style code. That's why we use Prietter and ESLint. We insist that you use them also in your feature projects. The test it's not complicated, but you have to figure out how it works, helps and how to configure it. 							
-							
-							x
+
 ## Todo:							
 1. Create react application using create-react-app							
 2. Add eslint and eslint-config-airbnb							
